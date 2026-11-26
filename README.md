@@ -17,9 +17,9 @@ Play, so any properly built Android Auto app shows up in the car launcher straig
 ### How to use these patches
 
 Click the button below, or manually add this repo url to Morphe Manager as a patch source:
-https://github.com/YOUR_GITHUB_USERNAME/gearhead-patches
+https://github.com/ccloud-admin/gearhead-patches
 
-<a href="https://morphe.software/add-source?github=YOUR_GITHUB_USERNAME/gearhead-patches">
+<a href="https://morphe.software/add-source?github=ccloud-admin/gearhead-patches">
   <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
 </a>
 

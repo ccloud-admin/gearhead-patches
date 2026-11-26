@@ -5,10 +5,10 @@ patches {
     about {
         name = "Gearhead Patches"
         description = "Patches for Android Auto, for use with Morphe"
-        source = "git@github.com:YOUR_GITHUB_USERNAME/gearhead-patches.git"
+        source = "git@github.com:ccloud-admin/gearhead-patches.git"
         author = "Danny"
-        contact = "https://github.com/YOUR_GITHUB_USERNAME/gearhead-patches/issues"
-        website = "https://github.com/YOUR_GITHUB_USERNAME/gearhead-patches"
+        contact = "https://github.com/ccloud-admin/gearhead-patches/issues"
+        website = "https://github.com/ccloud-admin/gearhead-patches"
         license = "GPLv3"
     }
 }
