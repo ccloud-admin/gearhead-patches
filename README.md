@@ -47,14 +47,18 @@ welcome in the issues.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/ccloud-admin/gearhead-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Android Auto&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-<!-- Do not modify this section by hand. The patch list is generated when release.yml creates a new release. -->
+**Package name:** `com.google.android.projection.gearhead`
 
-| Patch | Description |
-| --- | --- |
-| Allow apps from any installer | Makes Android Auto treat every app as installed from the Google Play Store, so sideloaded Android Auto apps show up in the car launcher without an installer app, developer settings or the "Unknown sources" setting. |
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Allow apps from any installer](#allow-apps-from-any-installer) | Makes Android Auto treat every app as installed from the Google Play Store, so sideloaded Android Auto apps show up in the car launcher without an installer app, developer settings or the "Unknown sources" setting. |  |
 
-&nbsp;
+</details>
 
 <!-- PATCHES_END -->
 
